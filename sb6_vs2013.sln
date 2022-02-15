@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2013 for Windows Desktop
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "julia", "build\vs2013\julia.vcxproj", "{327CB98D-D74D-4039-A472-A62E6E75AA17}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -366,6 +366,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "movingtri", "build\vs2013\m
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sb6_vs2013", "src\sb6\sb6_vs2013.vcxproj", "{ADDFF1E2-C5D4-4217-A5B3-96ECED2C3584}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_Super_Bible", "build\vs2013\OpenGL_Super_Bible.vcxproj", "{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -967,8 +969,19 @@ Global
 		{ADDFF1E2-C5D4-4217-A5B3-96ECED2C3584}.Release|Win32.Build.0 = Release|Win32
 		{ADDFF1E2-C5D4-4217-A5B3-96ECED2C3584}.Release|x64.ActiveCfg = Release|x64
 		{ADDFF1E2-C5D4-4217-A5B3-96ECED2C3584}.Release|x64.Build.0 = Release|x64
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Debug|Win32.Build.0 = Debug|Win32
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Debug|x64.ActiveCfg = Debug|x64
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Debug|x64.Build.0 = Debug|x64
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Release|Win32.ActiveCfg = Release|Win32
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Release|Win32.Build.0 = Release|Win32
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Release|x64.ActiveCfg = Release|x64
+		{51068D1F-E79B-4E4F-8B38-0DEB888DB54C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB545AB-7D4B-4339-B3FA-D7FF4301E6E1}
 	EndGlobalSection
 EndGlobal
