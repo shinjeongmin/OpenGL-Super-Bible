@@ -86,6 +86,8 @@
       <PrecompiledHeaderFile>
       </PrecompiledHeaderFile>
       <AdditionalIncludeDirectories>$(SolutionDir)\..\..\lib;$(SolutionDir)\..\..\lib\win32;%(AdditionalIncludeDirectories)$(SolutionDir)\..\..\lib;$(SolutionDir)\..\..\lib\win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <AdditionalOptions>/FS</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>

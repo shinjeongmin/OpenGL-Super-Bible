@@ -89,6 +89,8 @@
       <FunctionLevelLinking>false</FunctionLevelLinking>
       <PrecompiledHeaderFile>
       </PrecompiledHeaderFile>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <AdditionalOptions>/FS</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
