@@ -7,5 +7,17 @@
     <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch2\eg2-6.cpp" />
     <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch2\eg2-9.cpp" />
     <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch2\eg2-8.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-1.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-2.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-3.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-4.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-5.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-6.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-7.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-8.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-tessellated_triangle.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-9.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-10.cpp" />
+    <ClCompile Include="..\..\src\OpenGL_Super_Bible\ch3\eg3-11.cpp" />
   </ItemGroup>
 </Project>
